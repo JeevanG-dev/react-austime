@@ -1,5 +1,5 @@
 let ClockHeading = ()=>{
-    return <h1 class="fw-bolder">Australia Clock</h1>
+    return <h1 class="fw-bolder">Australian Clock</h1>
 }
 
 export default ClockHeading;
